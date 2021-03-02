@@ -1,9 +1,9 @@
 # GodoRogue
 #### a game by AikonCWD
 
-![img](https://imgur.com/UpKL1DB.png)
+!![img]((https://imgur.com/UpKL1DB.png)
 
-![img](https://imgur.com/hKf4iXf.png)[/center]
+!![img]((https://imgur.com/hKf4iXf.png)
 
 ### Información del Juego e Historia
 
@@ -23,7 +23,7 @@ Se tratará de un videojuego roguelike, en 2D y más enfocado en trabajar mecán
 El juego recibe claras influencias de [Rogue](https://es.wikipedia.org/wiki/Rogue) y del mundo de fantasía Dungeons & Dragons. Se implementarán las características típicas que cualquier roguelike debe tener:
 
 - :interrobang:Generación procedural
-- :skull_crossbones: Permadeath
+- :skull: Permadeath
 - :eye: Vista top down
 - :crossed_swords: Combate por turnos
 - :triangular_ruler: Diseño cuadriculas y tiles
@@ -37,14 +37,14 @@ Para desarrollar este juego utilizaré [Godot](https://godotengine.org/). Para l
 
 Dejaré mi Trello público, para quien quiera ver las características que están en desarrollo y la fase de cada una de ellas, así como las características que me faltan implementar o las que ya he completado:
 
-[center]https://trello.com/b/81ytwHMf/godorogue[/center]
+https://trello.com/b/81ytwHMf/godorogue
 
 ### Probar el juego (Online)
 
-[center]https://aikoncwd.ovh/roguelike[/center]
+https://aikoncwd.ovh/roguelike
 
 ### Imágenes del juego
 
-[img]https://imgur.com/hv0uBH0.png[/img]
-[img]https://imgur.com/CJAPqjS.png[/img]
-[img]https://imgur.com/aHeiJmg.png[/img]
+![img](https://imgur.com/hv0uBH0.png)
+![img](https://imgur.com/CJAPqjS.png)
+![img](https://imgur.com/aHeiJmg.png)
