@@ -7,13 +7,13 @@
 
 ### Información del Juego e Historia
 
-Nos situamos en [b]Nulbadush[/b], en el Reinado de los Yunques de Tharlone. [b]Nulbadush[/b] fue gobernada durante años por el malvado brujo [b]Sakku[/b], un [i]Lord Kobold[/i] que le gustaba experimentar con magia negra. Antaño hubieron muchas guerras hasta que por fin, el rey de [b]Tharlone[/b], arrebató la vida de [b]Sakku[/b] y puso fin al terror que asediaba la zona.
+Nos situamos en **Nulbadush**, en el Reinado de los Yunques de Tharlone. **Nulbadush** fue gobernada durante años por el malvado brujo **Sakku**, un *Lord Kobold* que le gustaba experimentar con magia negra. Antaño hubieron muchas guerras hasta que por fin, el rey de **Tharlone**, arrebató la vida de **Sakku** y puso fin al terror que asediaba la zona.
 
-La vida prosperó feliz y de forma pacífica en [b]Nulbadush[/b], hasta que años más tarde emergió un agujero en la lejana montaña. Empezaron a salir monstruos dispuestos a aterrorizar al pueblo de [b]Nulbadush[/b]. Es una antigua guarida de [b]Sakku[/b], en cuyo interior yace el [b]Amuleto de Yendor[/b]. Un artefacto poderoso que permitirá sellar por completo la guarida de [b]Sakku[/b] y devolver la paz.
+La vida prosperó feliz y de forma pacífica en **Nulbadush**, hasta que años más tarde emergió un agujero en la lejana montaña. Empezaron a salir monstruos dispuestos a aterrorizar al pueblo de **Nulbadush**. Es una antigua guarida de **Sakku**, en cuyo interior yace el **Amuleto de Yendor**. Un artefacto poderoso que permitirá sellar por completo la guarida de **Sakku** y devolver la paz.
 
 Nuestro rey hace años que murió.
 
-¿Quién tendrá ahora el valor suficiente para explorar la guarida de [b]Sakku[/b]?
+¿Quién tendrá ahora el valor suficiente para explorar la guarida de **Sakku**?
 ¿Quién se enfrentará a los monstruos y peligros que inundan la guarida?
 
 ### Diseño e Influencias
