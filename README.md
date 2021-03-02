@@ -102,32 +102,32 @@ Cada 80 turnos un nuevo monstruo emergerá entre las paredes. Siempre será un m
 #### Características
 | Letra |                                 Nombre                                 | HD | AC | Nivel |    Daño    |
 |:------:|:--------------------------------------------------------------------:|:--:|:--:|:-----:|:------------:|
-|    A   |     [url=https://aikoncwd.ovh/monsters/aquator.jpg]aquator[/url]     |  5 |  2 |  9-18 |    0d0   |
-|    B   |         [url=https://aikoncwd.ovh/monsters/bat.jpg]bat[/url]         |  1 |  3 |  1-8  |      1d2     |
-|    C   |     [url=https://aikoncwd.ovh/monsters/centaur.jpg]centaur[/url]     |  4 |  4 |  8-17 |    1d6+1d6   |
-|    D   |      [url=https://aikoncwd.ovh/monsters/dragon.jpg]dragon[/url]      | 10 | -1 |  22-  | 1d8+1d8+3d10 |
-|    E   |         [url=https://aikoncwd.ovh/monsters/emu.jpg]emu[/url]         |  1 |  7 |  1-7  |      1d2     |
-|    F   |  [url=https://aikoncwd.ovh/monsters/flytrap.jpg]venus flytrap[/url]  |  8 |  3 | 15-24 |     incremental    |
-|    G   |     [url=https://aikoncwd.ovh/monsters/griffin.jpg]griffin[/url]     | 13 |  2 |  19-  |  4d3+3d5+4d3 |
-|    H   |   [url=https://aikoncwd.ovh/monsters/hobgoblin.jpg]hobgoblin[/url]   |  1 |  5 |  1-10 |      1d8     |
-|    I   | [url=https://aikoncwd.ovh/monsters/ice monster.jpg]ice monster[/url] |  1 |  9 |  2-11 |      0d0     |
-|    J   |  [url=https://aikoncwd.ovh/monsters/jabberwock.jpg]jabberwock[/url]  | 15 |  6 |  21-  |   2d12+2d4   |
-|    K   |     [url=https://aikoncwd.ovh/monsters/kestrel.jpg]kestrel[/url]     |  1 |  7 |  1-6  |      1d4     |
-|    L   |  [url=https://aikoncwd.ovh/monsters/leprechaun.jpg]leprechaun[/url]  |  3 |  8 |  7-16 |      1d1     |
-|    M   |      [url=https://aikoncwd.ovh/monsters/medusa.jpg]medusa[/url]      |  8 |  2 |  18-  |  3d4+3d4+2d5 |
-|    N   |       [url=https://aikoncwd.ovh/monsters/nymph.jpg]nymph[/url]       |  3 |  9 | 11-20 |      0d0     |
-|    O   |         [url=https://aikoncwd.ovh/monsters/orc.jpg]orc[/url]         |  1 |  6 |  4-13 |      1d8     |
-|    P   |     [url=https://aikoncwd.ovh/monsters/phantom.jpg]phantom[/url]     |  8 |  3 | 16-25 |      4d4     |
-|    Q   |      [url=https://aikoncwd.ovh/monsters/quasit.jpg]quasit[/url]      |  3 |  2 | 10-19 |  1d2+1d2+1d4 |
-|    R   | [url=https://aikoncwd.ovh/monsters/rattlesnake.jpg]rattlesnake[/url] |  2 |  3 |  3-12 |      1d6     |
-|    S   |       [url=https://aikoncwd.ovh/monsters/snake.jpg]snake[/url]       |  1 |  5 |  1-9  |      1d3     |
-|    T   |       [url=https://aikoncwd.ovh/monsters/troll.jpg]troll[/url]       |  6 |  4 | 13-22 |  1d8+1d8+2d6 |
-|    U   |     [url=https://aikoncwd.ovh/monsters/unicorn.jpg]unicorn[/url]     |  7 | -2 | 17-26 |   3x1d3+4d6  |
-|    V   |     [url=https://aikoncwd.ovh/monsters/vampire.jpg]vampire[/url]     |  8 |  1 |  20-  |     1d10     |
-|    W   |      [url=https://aikoncwd.ovh/monsters/wraith.jpg]wraith[/url]      |  5 |  4 | 14-23 |      1d6     |
-|    X   |       [url=https://aikoncwd.ovh/monsters/xeroc.jpg]xeroc[/url]       |  7 |  7 |  19-  |      3d4     |
-|    Y   |        [url=https://aikoncwd.ovh/monsters/yeti.jpg]yeti[/url]        |  4 |  6 | 12-21 |    1d6+1d6   |
-|    Z   |      [url=https://aikoncwd.ovh/monsters/zombie.jpg]zombie[/url]      |  2 |  8 |  5-14 |      1d8     |
+|    A   |     https://aikoncwd.ovh/monsters/aquator.jpg aquator     |  5 |  2 |  9-18 |    0d0   |
+|    B   |         https://aikoncwd.ovh/monsters/bat.jpg bat         |  1 |  3 |  1-8  |      1d2     |
+|    C   |     https://aikoncwd.ovh/monsters/centaur.jpg centaur     |  4 |  4 |  8-17 |    1d6+1d6   |
+|    D   |      https://aikoncwd.ovh/monsters/dragon.jpg dragon      | 10 | -1 |  22-  | 1d8+1d8+3d10 |
+|    E   |         https://aikoncwd.ovh/monsters/emu.jpg emu         |  1 |  7 |  1-7  |      1d2     |
+|    F   |  https://aikoncwd.ovh/monsters/flytrap.jpg venus flytrap  |  8 |  3 | 15-24 |     incremental    |
+|    G   |     https://aikoncwd.ovh/monsters/griffin.jpg griffin     | 13 |  2 |  19-  |  4d3+3d5+4d3 |
+|    H   |   https://aikoncwd.ovh/monsters/hobgoblin.jpg hobgoblin   |  1 |  5 |  1-10 |      1d8     |
+|    I   | https://aikoncwd.ovh/monsters/ice monster.jpg ice monster |  1 |  9 |  2-11 |      0d0     |
+|    J   |  https://aikoncwd.ovh/monsters/jabberwock.jpg jabberwock  | 15 |  6 |  21-  |   2d12+2d4   |
+|    K   |     https://aikoncwd.ovh/monsters/kestrel.jpg kestrel     |  1 |  7 |  1-6  |      1d4     |
+|    L   |  https://aikoncwd.ovh/monsters/leprechaun.jpg leprechaun  |  3 |  8 |  7-16 |      1d1     |
+|    M   |      https://aikoncwd.ovh/monsters/medusa.jpg medusa      |  8 |  2 |  18-  |  3d4+3d4+2d5 |
+|    N   |       https://aikoncwd.ovh/monsters/nymph.jpg nymph       |  3 |  9 | 11-20 |      0d0     |
+|    O   |         https://aikoncwd.ovh/monsters/orc.jpg orc         |  1 |  6 |  4-13 |      1d8     |
+|    P   |     https://aikoncwd.ovh/monsters/phantom.jpg phantom     |  8 |  3 | 16-25 |      4d4     |
+|    Q   |      https://aikoncwd.ovh/monsters/quasit.jpg quasit      |  3 |  2 | 10-19 |  1d2+1d2+1d4 |
+|    R   | https://aikoncwd.ovh/monsters/rattlesnake.jpg rattlesnake |  2 |  3 |  3-12 |      1d6     |
+|    S   |       https://aikoncwd.ovh/monsters/snake.jpg snake       |  1 |  5 |  1-9  |      1d3     |
+|    T   |       https://aikoncwd.ovh/monsters/troll.jpg troll       |  6 |  4 | 13-22 |  1d8+1d8+2d6 |
+|    U   |     https://aikoncwd.ovh/monsters/unicorn.jpg unicorn     |  7 | -2 | 17-26 |   3x1d3+4d6  |
+|    V   |     https://aikoncwd.ovh/monsters/vampire.jpg vampire     |  8 |  1 |  20-  |     1d10     |
+|    W   |      https://aikoncwd.ovh/monsters/wraith.jpg wraith      |  5 |  4 | 14-23 |      1d6     |
+|    X   |       https://aikoncwd.ovh/monsters/xeroc.jpg xeroc       |  7 |  7 |  19-  |      3d4     |
+|    Y   |        https://aikoncwd.ovh/monsters/yeti.jpg yeti        |  4 |  6 | 12-21 |    1d6+1d6   |
+|    Z   |      https://aikoncwd.ovh/monsters/zombie.jpg zombie      |  2 |  8 |  5-14 |      1d8     |
 
 - **Hits Dice:** La vida que tendrá el enemigo, calculado tirando un d8 tantas veces como HD tenga. Por ejemplo, un dragón tendrá una vida aleatoria entre 10 y 80.
 - **Armor Class:** Clase de armadura usando la notación de D&D. A menor número, más defensa tiene y por tanto más complicado es asestar un golpe. Los monstruos pasados el nivel 26 tiene un AC menor del esperado.
@@ -148,32 +148,32 @@ Cada 80 turnos un nuevo monstruo emergerá entre las paredes. Siempre será un m
 
 | Letra |                                 Nombre                                 |   Especial |  Inmunidad | Drop | Flags |
 |:------:|:--------------------------------------------------------------------:|:----------:|:---------:|:-----:|:-----:|
-|    A   |     [url=https://aikoncwd.ovh/monsters/aquator.jpg]aquator[/url]     |    rust    |           |       |   M   |
-|    B   |         [url=https://aikoncwd.ovh/monsters/bat.jpg]bat[/url]         |            |           |       |   F   |
-|    C   |     [url=https://aikoncwd.ovh/monsters/centaur.jpg]centaur[/url]     |            |           |   15  |       |
-|    D   |      [url=https://aikoncwd.ovh/monsters/dragon.jpg]dragon[/url]      |    fire    |    fire   |  100  |   M   |
-|    E   |         [url=https://aikoncwd.ovh/monsters/emu.jpg]emu[/url]         |            |           |       |   M   |
-|    F   |  [url=https://aikoncwd.ovh/monsters/flytrap.jpg]venus flytrap[/url]  |  paralyze  |           |       |   M   |
-|    G   |     [url=https://aikoncwd.ovh/monsters/griffin.jpg]griffin[/url]     |            |           |   20  |  MFR  |
-|    H   |   [url=https://aikoncwd.ovh/monsters/hobgoblin.jpg]hobgoblin[/url]   |            |           |   10  |   M   |
-|    I   | [url=https://aikoncwd.ovh/monsters/ice monster.jpg]ice monster[/url] |  paralyze  |    ice    |       |   M   |
-|    J   |  [url=https://aikoncwd.ovh/monsters/jabberwock.jpg]jabberwock[/url]  |            |  lighting |   70  |       |
-|    K   |     [url=https://aikoncwd.ovh/monsters/kestrel.jpg]kestrel[/url]     |            |           |       |   MF  |
-|    L   |  [url=https://aikoncwd.ovh/monsters/leprechaun.jpg]leprechaun[/url]  | steal gold |           |  100  |       |
-|    M   |      [url=https://aikoncwd.ovh/monsters/medusa.jpg]medusa[/url]      |  confusion | confusion |   40  |   M   |
-|    N   |       [url=https://aikoncwd.ovh/monsters/nymph.jpg]nymph[/url]       | steal item |           |  100  |       |
-|    O   |         [url=https://aikoncwd.ovh/monsters/orc.jpg]orc[/url]         |            |           |   15  |   G   |
-|    P   |     [url=https://aikoncwd.ovh/monsters/phantom.jpg]phantom[/url]     |            |   arrows  |       |   IF  |
-|    Q   |      [url=https://aikoncwd.ovh/monsters/quasit.jpg]quasit[/url]      |            |   magic   |   30  |   M   |
-|    R   | [url=https://aikoncwd.ovh/monsters/rattlesnake.jpg]rattlesnake[/url] |   poison   |           |       |   M   |
-|    S   |       [url=https://aikoncwd.ovh/monsters/snake.jpg]snake[/url]       |            |           |       |   M   |
-|    T   |       [url=https://aikoncwd.ovh/monsters/troll.jpg]troll[/url]       |            |           |   50  |   MR  |
-|    U   |     [url=https://aikoncwd.ovh/monsters/unicorn.jpg]unicorn[/url]     |            |   magic   |   20  |   M   |
-|    V   |     [url=https://aikoncwd.ovh/monsters/vampire.jpg]vampire[/url]     |  reduce hp |           |   20  |   MR  |
-|    W   |      [url=https://aikoncwd.ovh/monsters/wraith.jpg]wraith[/url]      | reduce lvl |   arrows  |       |       |
-|    X   |       [url=https://aikoncwd.ovh/monsters/xeroc.jpg]xeroc[/url]       |    mimic   |           |   30  |       |
-|    Y   |        [url=https://aikoncwd.ovh/monsters/yeti.jpg]yeti[/url]        |            |    ice    |   30  |       |
-|    Z   |      [url=https://aikoncwd.ovh/monsters/zombie.jpg]zombie[/url]      |            |           |       |   M   |
+|    A   |     https://aikoncwd.ovh/monsters/aquator.jpg aquator     |    rust    |           |       |   M   |
+|    B   |         https://aikoncwd.ovh/monsters/bat.jpg bat         |            |           |       |   F   |
+|    C   |     https://aikoncwd.ovh/monsters/centaur.jpg centaur     |            |           |   15  |       |
+|    D   |      https://aikoncwd.ovh/monsters/dragon.jpg dragon      |    fire    |    fire   |  100  |   M   |
+|    E   |         https://aikoncwd.ovh/monsters/emu.jpg emu         |            |           |       |   M   |
+|    F   |  https://aikoncwd.ovh/monsters/flytrap.jpg venus flytrap  |  paralyze  |           |       |   M   |
+|    G   |     https://aikoncwd.ovh/monsters/griffin.jpg griffin     |            |           |   20  |  MFR  |
+|    H   |   https://aikoncwd.ovh/monsters/hobgoblin.jpg hobgoblin   |            |           |   10  |   M   |
+|    I   | https://aikoncwd.ovh/monsters/ice monster.jpg ice monster |  paralyze  |    ice    |       |   M   |
+|    J   |  https://aikoncwd.ovh/monsters/jabberwock.jpg jabberwock  |            |  lighting |   70  |       |
+|    K   |     https://aikoncwd.ovh/monsters/kestrel.jpg kestrel     |            |           |       |   MF  |
+|    L   |  https://aikoncwd.ovh/monsters/leprechaun.jpg leprechaun  | steal gold |           |  100  |       |
+|    M   |      https://aikoncwd.ovh/monsters/medusa.jpg medusa      |  confusion | confusion |   40  |   M   |
+|    N   |       https://aikoncwd.ovh/monsters/nymph.jpg nymph       | steal item |           |  100  |       |
+|    O   |         https://aikoncwd.ovh/monsters/orc.jpg orc         |            |           |   15  |   G   |
+|    P   |     https://aikoncwd.ovh/monsters/phantom.jpg phantom     |            |   arrows  |       |   IF  |
+|    Q   |      https://aikoncwd.ovh/monsters/quasit.jpg quasit      |            |   magic   |   30  |   M   |
+|    R   | https://aikoncwd.ovh/monsters/rattlesnake.jpg rattlesnake |   poison   |           |       |   M   |
+|    S   |       https://aikoncwd.ovh/monsters/snake.jpg snake       |            |           |       |   M   |
+|    T   |       https://aikoncwd.ovh/monsters/troll.jpg troll       |            |           |   50  |   MR  |
+|    U   |     https://aikoncwd.ovh/monsters/unicorn.jpg unicorn     |            |   magic   |   20  |   M   |
+|    V   |     https://aikoncwd.ovh/monsters/vampire.jpg vampire     |  reduce hp |           |   20  |   MR  |
+|    W   |      https://aikoncwd.ovh/monsters/wraith.jpg wraith      | reduce lvl |   arrows  |       |       |
+|    X   |       https://aikoncwd.ovh/monsters/xeroc.jpg xeroc       |    mimic   |           |   30  |       |
+|    Y   |        https://aikoncwd.ovh/monsters/yeti.jpg yeti        |            |    ice    |   30  |       |
+|    Z   |      https://aikoncwd.ovh/monsters/zombie.jpg zombie      |            |           |       |   M   |
 
 - **Rust:** Los *aquators* no hacen daño, pero te oxidan cualquier armadura que no sea de piel y hace decrecer su nivel.
 - **Fire:** El *dragon* puede lanzar una llamarada de fuego a distancia, provocando 3d6.
@@ -379,19 +379,19 @@ Cuando matas un monstruo obtienes puntos de experiencia siguiendo esta tabla:
 
 |                                Monstruo                               | Experiencia |                                Monstruo                               | Experiencia |
 |:--------------------------------------------------------------------:|:----:|:--------------------------------------------------------------------:|:----:|
-|     [url=https://aikoncwd.ovh/monsters/aquator.jpg]aquator[/url]     |  20  |       [url=https://aikoncwd.ovh/monsters/nymph.jpg]nymph[/url]       |  37  |
-|         [url=https://aikoncwd.ovh/monsters/bat.jpg]bat[/url]         |   1  |         [url=https://aikoncwd.ovh/monsters/orc.jpg]orc[/url]         |   5  |
-|     [url=https://aikoncwd.ovh/monsters/centaur.jpg]centaur[/url]     |  25  |     [url=https://aikoncwd.ovh/monsters/phantom.jpg]phantom[/url]     |  120 |
-|      [url=https://aikoncwd.ovh/monsters/dragon.jpg]dragon[/url]      | 6800 |      [url=https://aikoncwd.ovh/monsters/quasit.jpg]quasit[/url]      |  32  |
-|         [url=https://aikoncwd.ovh/monsters/emu.jpg]emu[/url]         |   2  | [url=https://aikoncwd.ovh/monsters/rattlesnake.jpg]rattlesnake[/url] |   9  |
-|  [url=https://aikoncwd.ovh/monsters/flytrap.jpg]venus flytrap[/url]  |  80  |       [url=https://aikoncwd.ovh/monsters/snake.jpg]snake[/url]       |   1  |
-|     [url=https://aikoncwd.ovh/monsters/griffin.jpg]griffin[/url]     | 2000 |       [url=https://aikoncwd.ovh/monsters/troll.jpg]troll[/url]       |  120 |
-|   [url=https://aikoncwd.ovh/monsters/hobgoblin.jpg]hobgoblin[/url]   |   3  |     [url=https://aikoncwd.ovh/monsters/unicorn.jpg]unicorn[/url]     |  190 |
-| [url=https://aikoncwd.ovh/monsters/ice monster.jpg]ice monster[/url] |  15  |     [url=https://aikoncwd.ovh/monsters/vampire.jpg]vampire[/url]     |  350 |
-|  [url=https://aikoncwd.ovh/monsters/jabberwock.jpg]jabberwock[/url]  | 4000 |      [url=https://aikoncwd.ovh/monsters/wraith.jpg]wraith[/url]      |  55  |
-|     [url=https://aikoncwd.ovh/monsters/kestrel.jpg]kestrel[/url]     |   1  |       [url=https://aikoncwd.ovh/monsters/xeroc.jpg]xeroc[/url]       |  100 |
-|  [url=https://aikoncwd.ovh/monsters/leprechaun.jpg]leprechaun[/url]  |  10  |        [url=https://aikoncwd.ovh/monsters/yeti.jpg]yeti[/url]        |  50  |
-|      [url=https://aikoncwd.ovh/monsters/medusa.jpg]medusa[/url]      |  200 |      [url=https://aikoncwd.ovh/monsters/zombie.jpg]zombie[/url]      |   6  |
+|     https://aikoncwd.ovh/monsters/aquator.jpg aquator     |  20  |       https://aikoncwd.ovh/monsters/nymph.jpg nymph       |  37  |
+|         https://aikoncwd.ovh/monsters/bat.jpg bat         |   1  |         https://aikoncwd.ovh/monsters/orc.jpg orc         |   5  |
+|     https://aikoncwd.ovh/monsters/centaur.jpg centaur     |  25  |     https://aikoncwd.ovh/monsters/phantom.jpg phantom     |  120 |
+|      https://aikoncwd.ovh/monsters/dragon.jpg dragon      | 6800 |      https://aikoncwd.ovh/monsters/quasit.jpg quasit      |  32  |
+|         https://aikoncwd.ovh/monsters/emu.jpg emu         |   2  | https://aikoncwd.ovh/monsters/rattlesnake.jpg rattlesnake |   9  |
+|  https://aikoncwd.ovh/monsters/flytrap.jpg venus flytrap  |  80  |       https://aikoncwd.ovh/monsters/snake.jpg snake       |   1  |
+|     https://aikoncwd.ovh/monsters/griffin.jpg griffin     | 2000 |       https://aikoncwd.ovh/monsters/troll.jpg troll       |  120 |
+|   https://aikoncwd.ovh/monsters/hobgoblin.jpg hobgoblin   |   3  |     https://aikoncwd.ovh/monsters/unicorn.jpg unicorn     |  190 |
+| https://aikoncwd.ovh/monsters/ice monster.jpg ice monster |  15  |     https://aikoncwd.ovh/monsters/vampire.jpg vampire     |  350 |
+|  https://aikoncwd.ovh/monsters/jabberwock.jpg jabberwock  | 4000 |      https://aikoncwd.ovh/monsters/wraith.jpg wraith      |  55  |
+|     https://aikoncwd.ovh/monsters/kestrel.jpg kestrel     |   1  |       https://aikoncwd.ovh/monsters/xeroc.jpg xeroc       |  100 |
+|  https://aikoncwd.ovh/monsters/leprechaun.jpg leprechaun  |  10  |        https://aikoncwd.ovh/monsters/yeti.jpg yeti        |  50  |
+|      https://aikoncwd.ovh/monsters/medusa.jpg medusa      |  200 |      https://aikoncwd.ovh/monsters/zombie.jpg zombie      |   6  |
 
 A estos valores hay que agregar una bonificación de experiencia correspondiente a los puntos totales de vida (hit points). Por ejemplo, un **Aquator** puede tener entre 5 y 40 puntos de vida la experiencia recibida será entre 25 y 60.
 
