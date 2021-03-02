@@ -1,9 +1,9 @@
 # GodoRogue
 #### a game by AikonCWD
 
-[center][img]https://imgur.com/UpKL1DB.png[/img]
+![img](https://imgur.com/UpKL1DB.png)
 
-[img]https://imgur.com/hKf4iXf.png[/img][/center]
+![img](https://imgur.com/hKf4iXf.png)[/center]
 
 ### Información del Juego e Historia
 
